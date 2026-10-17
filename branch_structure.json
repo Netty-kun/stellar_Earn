@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2799-define-the-contract-storage-key-namespace",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2799-define-the-contract-storage-key-namespace": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2799-define-the-contract-storage-key-namespace",
+    "origin"
+  ]
+}
